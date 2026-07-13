@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "TUAI HATI",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyCp_iyECNJWrfTJ9QuObqF24t8l38T7gM8",
     whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
