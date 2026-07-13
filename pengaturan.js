@@ -9,5 +9,5 @@ const CONFIG_APP = {
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
     googleApiKey: "AIzaSyCp_iyECNJWrfTJ9QuObqF24t8l38T7gM8",
-    whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    whatsappAdmin: "6285719490526" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
